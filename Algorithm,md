@@ -1,0 +1,13 @@
+The Caesar cipher, named after Julius Caesar who reportedly used it, is one of the simplest and most widely known encryption techniques. It is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+
+# How Caesar Cipher Works:
+# Encryption Process:
+Choose a shift value, often denoted as 𝑘
+k, which indicates by how many positions each letter in the plaintext should be shifted.
+Typically, 𝑘
+k is a number between 0 and 25,
+where:
+k=0 results in no change (plaintext = ciphertext),
+k=1 shifts 'A' to 'B', 'B' to 'C', and so on,
+k=25 shifts 'A' to 'Z', 'B' to 'A', and so forth.
+
